@@ -1,0 +1,29 @@
+_repo: --_7367
+_version: 0.0.1
+alternative_title: Guanzi
+creator:
+  author:
+    agent_name: Guan, Zhong
+    alias: 管仲
+    deathdate: -645
+    gutenberg_agent_id: '2445'
+    url: http://www.gutenberg.org/2009/agents/2445
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guan_Zhong
+    - http://zh.wikipedia.org/wiki/%E7%AE%A1%E4%BB%B2
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7367'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Chinese'
+- !lcsh 'Chinese classics'
+- !lcc 'B'
+- GITenberg
+title: 管子
+url: http://www.gutenberg.org/ebooks/7367
