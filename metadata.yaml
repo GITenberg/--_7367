@@ -1,6 +1,9 @@
 _repo: --_7367
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Guanzi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guan, Zhong
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guan_Zhong
     - http://zh.wikipedia.org/wiki/%E7%AE%A1%E4%BB%B2
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7367#--
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
